@@ -14,9 +14,9 @@ print("\n")
 message_list = ["Thanks alot!!! :)", "Thank you :)", "Thanks :)" ]
 
 print("Mention the date from which you want to reply to posts")
-year = int(raw_input("Enter  year\n"))
-month = int(raw_input("Enter Month\n"))
-day = int(raw_input("Enter Day\n"))
+year = int(raw_input("Enter  year (YYYY)\n"))
+month = int(raw_input("Enter Month (MM)\n"))
+day = int(raw_input("Enter Day (DD)\n"))
 
 bday = datetime(year, month, day, 0, 0, 0)
 
