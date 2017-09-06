@@ -17,3 +17,5 @@ Prerequisite -
 
 Just run the index.py, python file and your job will be done if you provide necessary inputs.
 
+Returns all the posts from the date you entered to the current day.
+Would suggest to run the program on the next day of your birthdaty so as to get all the posts from just the day before.
