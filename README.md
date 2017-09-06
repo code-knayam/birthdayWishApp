@@ -1,7 +1,7 @@
 # Facebook Birthday Wish App
 
 Replying to all the posts on a birthday can be a tedious task.
-This is an automated program on pyhton to reply to those messages either all at once or one by once.
+This is an automated program on pyhton to reply to those messages either all at once or one by one.
 
 You can customize the messages to be replied with by changing by "message_list" array.
 
