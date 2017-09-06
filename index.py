@@ -7,7 +7,8 @@ from datetime import datetime, date
 import facebook
 import requests
 
-access_token = raw_input("Enter secret access token.\n Dont have?  Get from https://developers.facebook.com/tools/explorer/ \n")
+print("\n")
+access_token = raw_input("Enter secret access token.\nDont have?  Get from https://developers.facebook.com/tools/explorer/ \n")
 print("\n")
 
 message_list = ["Thanks alot!!! :)", "Thank you :)", "Thanks :)" ]
